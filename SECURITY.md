@@ -9,7 +9,7 @@ Generally, only the latest version of Germanized has continued support. If a cri
 Germanized is an open-source plugin for WordPress. 
 For responsible disclosure of security issues please submit your report to security@vendidero.de.
 
-Our most critical targets are:
+Our most important targets are:
 
 Germanized core (this repository)
 Shipments and DHL packages and plugins
